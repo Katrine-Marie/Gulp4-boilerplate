@@ -12,7 +12,8 @@
     "css",
     "javascript"
   ],
-  "author": "OnlinePlus",
+  "repository": "git+https://github.com/Katrine-Marie/Gulp4-boilerplate.git",
+  "author": "Katrine-Marie Burmeister",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^9.7.0",
