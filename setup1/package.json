@@ -1,10 +1,10 @@
 {
-  "name": "gulp4-boilerplatesetup1",
+  "name": "gulp4-boilerplate-setup1",
   "version": "1.0.0",
   "description": "A simple Gulp boilerplate for managing Javascript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "gulp": "gulp"
   },
   "repository": "git+https://github.com/Katrine-Marie/Gulp4-boilerplate.git",
   "keywords": [
